@@ -28,8 +28,8 @@ To identify cancer-type-specific survival-associated genes and quantify pathway-
 
 ## 📁 Repository Contents
 
-| | Description |
-|---------------|-------------|
+| |Description |
+|---------------|
 | Raw and cleaned datasets used in the study |
 | Jupyter notebooks for EDA, modeling, entropy analysis |
 | KM plots, heatmaps, survival diagrams |
