@@ -28,13 +28,13 @@ To identify cancer-type-specific survival-associated genes and quantify pathway-
 
 ## 📁 Repository Contents
 
-| Folder        | Description |
+| | Description |
 |---------------|-------------|
-| `data/`       | Raw and cleaned datasets used in the study |
-| `notebooks/`  | Jupyter notebooks for EDA, modeling, entropy analysis |
-| `figures/`    | KM plots, heatmaps, survival diagrams |
-| `results/`    | CSVs with top gene results, Cox outputs |
-| `src/`        | Python modules for processing or modeling |
+| Raw and cleaned datasets used in the study |
+| Jupyter notebooks for EDA, modeling, entropy analysis |
+| KM plots, heatmaps, survival diagrams |
+| CSVs with top gene results, Cox outputs |
+| Python modules for processing or modeling |
 
 ---
 
