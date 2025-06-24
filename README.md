@@ -24,17 +24,6 @@ To identify cancer-type-specific survival-associated genes and quantify pathway-
 - Entropy score calculation for significant pathways
 - Adaptive therapy modeling using entropy-guided risk
 
----
-
-## 📁 Repository Contents
-
-| |Description |
-|---------------|
-| Raw and cleaned datasets used in the study |
-| Jupyter notebooks for EDA, modeling, entropy analysis |
-| KM plots, heatmaps, survival diagrams |
-| CSVs with top gene results, Cox outputs |
-| Python modules for processing or modeling |
 
 ---
 
