@@ -1,6 +1,6 @@
 # MRP – Entropy-Based Biomarkers and Adaptive Therapy Modeling for Cancer Survival Prediction
 
-This repository contains the code, data, and results from my **Major Research Project (MRP)**, which investigates the effectiveness of **entropy-based pathway biomarkers** in predicting survival outcomes across heterogeneous cancer types, with applications for **adaptive therapy design**.
+This repository contains the code, data, and results from my **Major Research Project (MRP)**, which investigates the effectiveness of **entropy-based pathway biomarkers** in predicting survival outcomes across heterogeneous cancer types**.
 
 ---
 
@@ -10,7 +10,7 @@ To:
 1. Identify **cancer-type–specific survival-associated genes** using **univariate Cox Proportional Hazards (CoxPH)** modeling.
 2. Compute **entropy scores** to quantify pathway-level dysregulation.
 3. Compare gene-level and pathway-level models to evaluate prognostic power.
-4. Explore the potential of entropy-based metrics to guide **adaptive therapy strategies** tailored to pathway activity patterns.
+
 
 ---
 
